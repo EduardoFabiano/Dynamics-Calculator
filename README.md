@@ -16,4 +16,7 @@ Execute with:
 
 dynamics-calculator.py
 ```
+# Technologies Used:
+
+Programming language Python 
 
