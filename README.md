@@ -11,5 +11,9 @@ this script calculates Newton's 2nd law and forces
 ```bash
 git clone https://github.com/EduardoFabiano/Dynamics-Calculator
 cd Dynamics-Calculator
+
+Execute with:
+
+dynamics-calculator.py
 ```
 
