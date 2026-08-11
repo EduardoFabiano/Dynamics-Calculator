@@ -14,7 +14,7 @@ cd Dynamics-Calculator
 
 Execute with:
 
-dynamics-calculator.py
+python dynamics-calculator.py
 ```
 # Technologies Used:
 
